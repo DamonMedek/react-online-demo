@@ -1,8 +1,8 @@
-import Example from "./Components/Navbar";
+import Main from "./Components/Main";
 function App() {
   return (
     <>
-      <Example />
+      <Main />
     </>
   );
 }
